@@ -36,9 +36,9 @@ I’m a **Software Engineer** passionate about solving real-world problems with 
 
 ### 🌐 Frontend Basics
 
-- **HTML & CSS** ▓▓▓▓▓▓░░░░ 60%  
-- **JavaScript** ▓▓▓▓▓░░░░░ 50%  
-- **React.js** ▓▓▓▓░░░░░░ 40%
+-**HTML & CSS** ▓▓▓▓▓▓▓░░░ 70%  
+- **JavaScript** ▓▓▓▓▓▓▓░░░ 60% 
+- **React.js**▓▓▓▓▓░░░░░ 50%
 
 ### 📊 Other Skills
 
