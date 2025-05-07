@@ -6,21 +6,21 @@
   <img src="https://i.imgur.com/iXuL1HG.png" width="100%" alt="Banner" />
 </p>
 
-<h1 align="center">👋 Hey, I'm David Adeyanju</h1>
-<h3 align="center">Backend Software Engineer | Python & Django Specialist | REST APIs | ML Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm Gbadegesin Adeyanju</h1>
+<h3 align="center">Software Engineer | ML Enthusiast</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a **Backend Software Engineer** passionate about solving real-world problems with code. I focus on building robust backend systems, APIs, and scalable web applications using Python and Django.
+I’m a **Software Engineer** passionate about solving real-world problems with code. I focus on building robust backend systems, APIs, and scalable web applications using Python and Django. I am currently learning and improving my skills on machine learning.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,mysql,html,css,git,linux,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,mysql,html,css,git,postman,vscode" />
 </p>
 
 ---
@@ -55,20 +55,4 @@ I’m a **Backend Software Engineer** passionate about solving real-world proble
 - 🔗 Portfolio: _Coming soon_
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=100&section=footer"/>
-</p>
 
