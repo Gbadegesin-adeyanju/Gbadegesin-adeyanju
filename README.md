@@ -32,7 +32,7 @@ I’m a **Software Engineer** passionate about solving real-world problems with 
 - **Python** ▓▓▓▓▓▓▓▓▓░ 90%  
 - **Django** ▓▓▓▓▓▓▓▓░░ 85%  
 - **REST APIs** ▓▓▓▓▓▓▓▓░░ 80%  
-- **MySQL** ▓▓▓▓▓▓▓░░░ 70%
+- **MySQL** ▓▓▓▓▓▓▓▓░░ 85%  
 
 ### 🌐 Frontend Basics
 
