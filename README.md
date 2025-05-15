@@ -20,7 +20,7 @@ I’m a **Software Engineer** passionate about solving real-world problems with 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,mysql,html,css,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,mysql,html,css,anaconda,tensorflow,pytorch,sklearn,git,postman,vscode" />
 </p>
 
 ---
