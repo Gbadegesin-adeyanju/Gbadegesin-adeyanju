@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **Software Engineer**, passionate about solving real-world problems through my technical and creative skills. I focus on building efficient backend systems, APIs, optimizing database using Python, Django, and MySQL. I am currently learning and improving my skills on machine learning.
+I’m a **Software Engineer**, passionate about solving real-world problems through my technical and creative skills. I focus on building efficient backend systems and APIs, optimizing database, training machine learning models using Python, Django, scikit-learn, MySQL, and others.
 
 ---
 
