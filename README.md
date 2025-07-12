@@ -54,5 +54,21 @@ I’m a **Software Engineer**, passionate about solving real-world problems thro
 - 🌍 Location: Nigeria  
 - 🔗 Portfolio: _Coming soon_
 
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gbadegesin-adeyanju&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gbadegesin-adeyanju&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbadegesin-adeyanju&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=100&section=footer"/>
+</p>
+
 ---
 
