@@ -21,17 +21,16 @@ Beyond writing code and deploying systems to production, he approaches developme
 
 ## TECHNICAL SKILLS AND TOOLS
 **Programming Languages**: Python, JavaScript.
-**Frameworks**: Django, React JS, BootStrap, Django Channels.
-**Database Management**: MySQL, SQLite, PostgreSQL, Redis.
-**DevOps and Infrastructure**: Docker, Git, GitHub Actions, CI/CD pipelines, AWS(EC2, S3, RDS),
+
+* **Frameworks**: Django, React JS, BootStrap, Django Channels.
+* **Database Management**: MySQL, SQLite, PostgreSQL, Redis.
+* **DevOps and Infrastructure**: Docker, Git, GitHub Actions, CI/CD pipelines, AWS(EC2, S3, RDS),
 Google Cloud, Render, Firebase, Nginx, Twilio
-**Backend Development**: REST API, Authentication and Authorization, Async/WebSocket,
-caching, celery. 
-**AI/ML**: Scikit-learn, Tensorflow, Pytorch, Hugging face, Natural Language Processing, Numpy,
+* **AI/ML**: Scikit-learn, Tensorflow, Pytorch, Hugging face, Natural Language Processing, Numpy,
 Pandas.
-**API documentation**: Postman and Swagger.
-**Monitoring and Debugging**: Log tracing, production troubleshooting, performance optimization
-**Methodology**: Agile, waterfall
+* **API documentation**: Postman and Swagger.
+* **Monitoring and Debugging**: Log tracing, production troubleshooting, performance optimization
+* **Methodology**: Agile, waterfall
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,aws,django,js,react,postman,docker,mysql,html,css,anaconda,tensorflow,pytorch,sklearn,git,postman,vscode" />
@@ -40,11 +39,15 @@ Pandas.
 ---
 
 ## Selected Experience
-NewsBridge AI: I developed and deployed the backend system of the civic-tech platform designed to amplify unreported communities, ensuring they voices are heard. I made sure all requirements are met and scales effeciently in production. Even with little time to execute the project, I made sure the project is ready before deadline without ignoring any part.
+* **NewsBridge AI**: When the team set out to build a civic-tech platform that amplifies the voices of underreported communities, the biggest constraint was time. I worked on the backend development from architecture to production deployment, designing and implementing 20+ RESTful API endpoints to handle newsworthy report submission(via WhatsApp and phone call), AI analysis and process, and user management. Despite a short delivery timeline, the platform was production-ready, with stable deployment configuration, environment management, and monitoring in place.
 
-GiverollApp: As an Intern at Mentorled, I collaborated with a team of 7 containing product designer, project manager, product manager, QA testers, frontend engineer. The project was Live draw giveaway platform designed and developed with transparency, made for content creators, influencers, and brands to host trusted giveaway process. The project was not financially sponsored, but I did a great job making sure it scales enough with the resources available and in addition.
+* **GiverollApp**: As the Backend Engineer within a 7-member cross-functional team (product, design, QA, and frontend), I helped build a transparent live-draw giveaway platform designed for creators and brands to host trusted and verifiable giveaways.
 
-FileConverter: I worked with two friends on this project, one is a UI/UX designer and the other is a frontend developer. The project was designed for users to convert pdf files to docx, voice to words(voice transcription), and extracting words from images seamlessly
+I engineered the core backend logic powering draw execution, participant validation, and secure REST and WebSocket communication. The system was designed to handle increasing participation volume while maintaining fairness and real-time accuracy. Operating without external funding required cost-conscious architectural decisions. I optimized database queries, reduced API overhead, and improved endpoint efficiency to minimize compute usage and ensure stable performance within constrained hosting resources.
+
+The result was a production-ready live-draw platform built for transparency, scalability, and operational reliability, delivered through disciplined backend engineering and strong cross-team collaboration.
+
+* **FileConverter**: I worked with two friends on this project, one is a UI/UX designer and the other is a frontend developer. The project was designed for users to convert pdf files to docx, voice to words(voice transcription), and extracting words from images seamlessly.
 
 
 ---
@@ -53,7 +56,7 @@ FileConverter: I worked with two friends on this project, one is a UI/UX designe
 
 - Email: [davidadeyanju68@gmail.com](mailto:davidadeyanju68@gmail.com)
 - Location: Lagos, Nigeria  
-- Resume: <a href=""> Click me </a>
+- Resume: <a href="https://drive.google.com/file/d/1kKyteWK2beXGG3li1pauUUkayIsTXlPI/view?usp=sharing"> Click me </a>
 
 <h3 align="center">You are free to explore my public repository!</h3>
 
