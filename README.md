@@ -55,7 +55,8 @@ Pandas.
 ## Let's Connect
 
 - Email: [davidadeyanju68@gmail.com](mailto:davidadeyanju68@gmail.com)
-- Location: Lagos, Nigeria  
+- Location: Lagos, Nigeria
+- LinkedIn: <a href="https://www.linkedin.com/in/gbadegesin-adeyanju-214013178/"> View my profile </a> 
 - Resume: <a href="https://drive.google.com/file/d/1kKyteWK2beXGG3li1pauUUkayIsTXlPI/view?usp=sharing"> Click me </a>
 
 <h2 align="center">You are free to explore my public repository!</h2>
@@ -64,11 +65,11 @@ Pandas.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gbadegesin-adeyanju&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gbadegesin-adeyanju&show_icons=true&theme=tokyonight&hide_border=false" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gbadegesin-adeyanju&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbadegesin-adeyanju&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbadegesin-adeyanju&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 
