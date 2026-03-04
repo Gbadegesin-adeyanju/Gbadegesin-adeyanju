@@ -42,6 +42,7 @@ Pandas.
 * **NewsBridge AI**: When the team set out to build a civic-tech platform that amplifies the voices of underreported communities, the biggest constraint was time. I worked on the backend development from architecture to production deployment, designing and implementing 20+ RESTful API endpoints to handle newsworthy report submission(via WhatsApp and phone call), AI analysis and process, and user management. Despite a short delivery timeline, the platform was production-ready, with stable deployment configuration, environment management, and monitoring in place.
 
 * **GiverollApp**: As the Backend Engineer within a 7-member cross-functional team (product, design, QA, and frontend), I helped build a transparent live-draw giveaway platform designed for creators and brands to host trusted and verifiable giveaways.
+  
   I engineered the core backend logic powering draw execution, participant validation, and secure REST and WebSocket communication. The system was designed   to handle increasing participation volume while maintaining fairness and real-time accuracy. Operating without external funding required cost-conscious     architectural decisions. I optimized database queries, reduced API overhead, and improved endpoint efficiency to minimize compute usage and ensure stable   performance within constrained hosting resources.
 
   The result was a production-ready live-draw platform built for transparency, scalability, and operational reliability, delivered through disciplined backend engineering and strong cross-team collaboration.
@@ -57,7 +58,7 @@ Pandas.
 - Location: Lagos, Nigeria  
 - Resume: <a href="https://drive.google.com/file/d/1kKyteWK2beXGG3li1pauUUkayIsTXlPI/view?usp=sharing"> Click me </a>
 
-<h5 align="center">You are free to explore my public repository!</h5>
+<h2 align="center">You are free to explore my public repository!</h2>
 
 
 ## GitHub Stats
