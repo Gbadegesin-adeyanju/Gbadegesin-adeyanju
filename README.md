@@ -20,7 +20,7 @@ Beyond writing code and deploying systems to production, he approaches developme
 ---
 
 ## TECHNICAL SKILLS AND TOOLS
-**Programming Languages**: Python, JavaScript.
+* **Programming Languages**: Python, JavaScript.
 
 * **Frameworks**: Django, React JS, BootStrap, Django Channels.
 * **Database Management**: MySQL, SQLite, PostgreSQL, Redis.
@@ -33,7 +33,7 @@ Pandas.
 * **Methodology**: Agile, waterfall
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,django,js,react,postman,docker,mysql,html,css,anaconda,tensorflow,pytorch,sklearn,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,aws,django,js,react,swagger,huggingface,redis,numpy,pandas,nginx,github,postgresql,bootstrap,docker,mysql,html,css,anaconda,tensorflow,pytorch,sklearn,git,postman,vscode" />
 </p>
 
 ---
