@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 **Gbadegesin Adeyanju** is a software engineer with over two years of hands-on experience building scalable, efficient, and production-ready web applications. Over the years, he has collaborated both remotely and on-site with cross-functional teams to deliver reliable software solutions.
 
