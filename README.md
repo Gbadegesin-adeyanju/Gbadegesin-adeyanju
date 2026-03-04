@@ -57,7 +57,7 @@ Pandas.
 - Location: Lagos, Nigeria  
 - Resume: <a href="https://drive.google.com/file/d/1kKyteWK2beXGG3li1pauUUkayIsTXlPI/view?usp=sharing"> Click me </a>
 
-<h3 align="center">You are free to explore my public repository!</h3>
+<h5 align="center">You are free to explore my public repository!</h5>
 
 
 ## GitHub Stats
