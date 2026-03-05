@@ -21,7 +21,6 @@ Beyond writing code and deploying systems to production, he approaches developme
 
 ## TECHNICAL SKILLS AND TOOLS
 * **Programming Languages**: Python, JavaScript.
-
 * **Frameworks**: Django, React JS, BootStrap, Django Channels.
 * **Database Management**: MySQL, SQLite, PostgreSQL, Redis.
 * **DevOps and Infrastructure**: Docker, Git, GitHub Actions, CI/CD pipelines, AWS(EC2, S3, RDS),
@@ -41,14 +40,15 @@ Pandas.
 ## Selected Experience
 * **NewsBridge AI**: When the team set out to build a civic-tech platform that amplifies the voices of underreported communities, the biggest constraint was time. I worked on the backend development from architecture to production deployment, designing and implementing 20+ RESTful API endpoints to handle newsworthy report submission(via WhatsApp and phone call), AI analysis and process, and user management. Despite a short delivery timeline, the platform was production-ready, with stable deployment configuration, environment management, and monitoring in place.
 
-* **GiverollApp**: As the Backend Engineer within a 7-member cross-functional team (product, design, QA, and frontend), I helped build a transparent live-draw giveaway platform designed for creators and brands to host trusted and verifiable giveaways.
+* **GiverollApp**: As the Backend Engineer(intern) within a 7-member cross-functional team (product, design, QA, and frontend), I collaborated to build a transparent live-draw giveaway platform designed for creators and brands to host trusted and verifiable giveaways.
   
-  I engineered the core backend logic powering draw execution, participant validation, and secure REST and WebSocket communication. The system was designed   to handle increasing participation volume while maintaining fairness and real-time accuracy. Operating without external funding required cost-conscious     architectural decisions. I optimized database queries, reduced API overhead, and improved endpoint efficiency to minimize compute usage and ensure stable   performance within constrained hosting resources.
+  I engineered the system architecture, core backend logic powering draw execution, participant validation, and secure REST and WebSocket communication. The system was designed   to handle increasing participation volume while maintaining fairness and real-time accuracy. Operating without external funding required cost-conscious architectural decisions. I optimised database queries, reduced API overhead, and improved endpoint efficiency to minimise compute usage and ensure stable performance within constrained hosting resources.
 
   The result was a production-ready live-draw platform built for transparency, scalability, and operational reliability, delivered through disciplined backend engineering and strong cross-team collaboration.
 
 * **FileConverter**: I worked with two friends on this project, one is a UI/UX designer and the other is a frontend developer. The project was designed for users to convert pdf files to docx, voice to words(voice transcription), and extracting words from images seamlessly.
 
+* **Complaint Support Model**: Designed and implemented a RESTful API integrated with a machine learning model that delivers instant, automated responses to user complaints. One of the primary challenges was high similarity across training data, which introduced classification ambiguity and reduced early model performance. I addressed this by refining preprocessing strategies and implementing confidence threshold tuning to improve prediction reliability. The final model achieved 84% accuracy, delivering fast and contextually relevant support responses.
 
 ---
 
