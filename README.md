@@ -32,7 +32,7 @@ Pandas.
 * **Methodology**: Agile, waterfall
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,django,js,react,swagger,huggingface,redis,numpy,pandas,nginx,github,postgresql,bootstrap,docker,mysql,html,css,anaconda,tensorflow,pytorch,sklearn,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,aws,django,js,react,redis,nginx,github,postgresql,bootstrap,docker,mysql,html,css,anaconda,tensorflow,pytorch,sklearn,git,postman,vscode" />
 </p>
 
 ---
