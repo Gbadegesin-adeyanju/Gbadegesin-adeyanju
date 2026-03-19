@@ -22,9 +22,10 @@ Beyond writing code and deploying systems to production, he approaches developme
 ## TECHNICAL SKILLS AND TOOLS
 * **Programming Languages**: Python, JavaScript.
 * **Frameworks**: Django, React JS, BootStrap, Django Channels.
+* **Backend Development**: REST API, Authentication and Authorization, Async/WebSocket, Caching, Celery. 
 * **Database Management**: MySQL, SQLite, PostgreSQL, Redis.
 * **DevOps and Infrastructure**: Docker, Git, GitHub Actions, CI/CD pipelines, AWS(EC2, S3, RDS),
-Google Cloud, Render, Firebase, Nginx, Twilio
+Google Cloud, Render, Firebase, Nginx, Twilio, SendGrid
 * **AI/ML**: Scikit-learn, Tensorflow, Pytorch, Hugging face, Natural Language Processing, Numpy,
 Pandas.
 * **API documentation**: Postman and Swagger.
