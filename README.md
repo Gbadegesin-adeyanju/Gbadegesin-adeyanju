@@ -66,7 +66,7 @@ Pandas.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gbadegesin-adeyanju&show_icons=true&theme=tokyonight&hide_border=false" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gbadegesin-adeyanju&show_icons=true&theme=tokyonight&hide_border=false" /> -->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gbadegesin-adeyanju&theme=tokyonight&hide_border=true" />
   <br/>
