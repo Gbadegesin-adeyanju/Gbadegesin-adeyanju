@@ -58,7 +58,7 @@ Pandas.
 - Email: [davidadeyanju68@gmail.com](mailto:davidadeyanju68@gmail.com)
 - Location: Lagos, Nigeria
 - LinkedIn: <a href="https://www.linkedin.com/in/gbadegesin-adeyanju-214013178/"> View my profile </a> 
-- Resume: <a href="https://drive.google.com/file/d/1kKyteWK2beXGG3li1pauUUkayIsTXlPI/view?usp=sharing"> Click me </a>
+- Resume: <a href="https://drive.google.com/file/d/1Hgyno54zXcWbXPfFiKv4Q1gJ6XwRc2Qa/view?usp=sharing"> Click me </a>
 
 <h2 align="center">You are free to explore my public repository!</h2>
 
